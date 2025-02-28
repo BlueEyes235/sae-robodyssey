@@ -199,9 +199,9 @@ cards-container {
 }
 .card1:hover {
   transform: translateY(-10px);
-  background-image:url(r3.avif);
-  background-size:cover;
-    background-position: center;
+  background-image:url(S2.jpg);
+  background-size:cover;    
+  background-position: center;
   background-repeat: no-repeat;
 }
 cards-container1 {
